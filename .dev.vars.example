@@ -1,0 +1,6 @@
+# Local development only. Copy to .dev.vars and fill values.
+# NEVER commit real secrets.
+
+CF_API_TOKEN="replace-with-read-only-cloudflare-api-token"
+CF_ACCOUNT_ID="replace-with-cloudflare-account-id"
+MCP_SHARED_SECRET="replace-with-a-long-random-secret"
